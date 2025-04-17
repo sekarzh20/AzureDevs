@@ -1,2 +1,17 @@
 ".vs/" 
 ".vs/" 
+".vs/" 
+".vs/ConsoleApp1/FileContentIndex/57e19d93-7da3-45bd-9962-eb0bf152fcb7.vsidx" 
+".vs/ConsoleApp1/FileContentIndex/57e19d93-7da3-45bd-9962-eb0bf152fcb7.vsidx" 
+
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore compiled files
+*.dll
+*.exe
+
+# Ignore user settings and build folders
+*.user
+bin/
+obj/
